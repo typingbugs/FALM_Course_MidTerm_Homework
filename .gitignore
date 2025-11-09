@@ -145,7 +145,6 @@ runs
 /examples/rag/sweep
 
 # data
-/data
 serialization_dir
 
 # emacs
@@ -175,3 +174,7 @@ tags
 
 # Cursor IDE files
 .cursor/
+
+data/cache/
+data/outputs/
+data/raw_data/
